@@ -63,9 +63,10 @@
 
 Instagram - instagram.com/imtuinyourcloset
 
+
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=not-imtiaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%" />
 
 </div>
-
+wow.
