@@ -61,7 +61,7 @@
 
 <br/>
 
-Instagram - instagram.com/imtuin
+Instagram - instagram.com/imtui
 
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
