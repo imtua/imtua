@@ -61,7 +61,7 @@
 
 <br/>
 
-Instagram - instagram.com/imtuinyourc
+Instagram - instagram.com/imtuinyour
 
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
