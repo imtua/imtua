@@ -34,7 +34,7 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
       <ul>
         <li><a href="https://github.com/not-imtiaz/ImtOS"><b>ImtOS</b></a> &nbsp;: An OS about Imtiaz Ahmed, WebOS 1 & WebOS 2 Mission of Stardance from <a href="hackclub.com"><b>Hack Club</b></a></li>
         <br>
-        <li><a href="https://github.com/mayankrajput00/words-of-god"><b>WORDS OF GOD</b></a> &nbsp; A collection of Python scripts that run purely on faith, caffeine, and a lot of print statements
+        <li><a href="https://github.com/not-imtiaz/ImtPad"><b>ImtPad</b></a> &nbsp;: 6 Button Macropad with a rotary encoder, made by Imtiaz Ahmed, Hackpad Mission of Stardance from <a href="hackclub.com"><b>Hack Club</b></a></li>
       </ul>
     </td>
     <td width="20%">
