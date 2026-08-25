@@ -18,9 +18,9 @@
     </td>
     <td width="100%">
       <b>Hey there! I'm Imtiaz</b><br><br>
-      I'm a computer science student diving deep into software development.<br><br>
-By day, I'm mastering data structures and algorithms, and writing code in <b>Python, C, and C++</b>.<br><br>
-When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest IPL match stats.
+      I am a Bangladeshi Student in Ninth Grade, Learning Tech by myself, basically a self-learner.<br><br>
+Actually a polymath, who's mastering every aspect of life.<br><br>
+When I'm not online, you can find me appreciating the nature, hiking, learning different things or watching Marvel Movies :3
       <br><br>
     </td>
   </tr>
