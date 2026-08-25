@@ -32,13 +32,12 @@ When I'm not online, you can find me appreciating the nature, hiking, learning d
   <tr>
     <td width="80%">
       <ul>
-        <li><a href="https://github.com/not-imtiaz/ImtOS"><b>ImtOS</b></a> &nbsp;: An OS about Imtiaz Ahmed, WebOS 1 & WebOS 2 Mission of Stardance from <a href="hackclub.com"><b>Hack Club</b></a></li>
+        <li><a href="https://github.com/imtua/ImtOS"><b>ImtOS</b></a> &nbsp;: An OS about Imtiaz Ahmed, WebOS 1 & WebOS 2 Mission of Stardance from <a href="hackclub.com"><b>Hack Club</b></a></li>
         <br>
-        <li><a href="https://github.com/not-imtiaz/ImtPad"><b>ImtPad</b></a> &nbsp;: 6 Button Macropad with a rotary encoder, made by Imtiaz Ahmed, Hackpad Mission of Stardance from <a href="hackclub.com"><b>Hack Club</b></a></li>
+        <li><a href="https://github.com/imtua/ImtPad"><b>ImtPad</b></a> &nbsp;: 6 Button Macropad with a rotary encoder, made by Imtiaz Ahmed, Hackpad Mission of Stardance from <a href="hackclub.com"><b>Hack Club</b></a></li>
       </ul>
     </td>
     <td width="20%">
-      <!-- Yahan apne Fire image ka GitHub wala link daalein -->
       <img src="https://github.com/user-attachments/assets/e063d361-b248-4be6-8273-42761f950efe" alt="Fire" width="100%" />
     </td>
   </tr>
