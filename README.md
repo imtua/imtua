@@ -25,3 +25,21 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
     </td>
   </tr>
 </table>
+
+### 🔗 Top Projects (built to avoid manual labor)
+
+<table>
+  <tr>
+    <td width="80%">
+      <ul>
+        <li><a href="https://github.com/not-imtiaz/ImtOS"><b>ImtOS</b></a> &nbsp; An OS about Imtiaz Ahmed, WebOS 1 & WebOS 2 Mission of Stardance from <a href="hackclub.com"><b>Hack Club></b></a></li>
+        <br>
+        <li><a href="https://github.com/mayankrajput00/words-of-god"><b>WORDS OF GOD</b></a> &nbsp; A collection of Python scripts that run purely on faith, caffeine, and a lot of print statements
+      </ul>
+    </td>
+    <td width="20%">
+      <!-- Yahan apne Fire image ka GitHub wala link daalein -->
+      <img src="https://github.com/user-attachments/assets/e063d361-b248-4be6-8273-42761f950efe" alt="Fire" width="100%" />
+    </td>
+  </tr>
+</table>
